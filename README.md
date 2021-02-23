@@ -1,0 +1,2 @@
+# Student-Research-
+Student Research Application, is a very simple application that can be used in searching within texts, sorting and modifying text sentences, saving and writing them, in addition to exporting the archive, and quickly designing external, covers pdf html.                           تطبيق أبحاث الطالب، هو تطبيق بسيط جداً، يمكن استخدامة في البحث داخل النصوص وفرز وتعديل الجمل النصية، وحفظ وتدوينها، بالإضافة الى تصدير المحفوظة، وتصميم سريع للغلافات الخارجية
